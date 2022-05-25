@@ -1,0 +1,28 @@
+p{
+	font-family: "Arial";
+	font-weight: 700; /*we could use bold. and for making bold the paramiter is 100-600*/
+	line-height: 2;
+	text-align: center;
+}
+h1{
+	font-family: "Grape Nuts";
+	color: blue;
+	text-align: center;
+
+}
+h1{
+	font-size: 80px;
+	text-decoration: line-through;
+}
+span{
+	font-size: 1.2em;
+	color: lightgreen;
+}
+
+h2{
+	font-size: 45px;
+	color: brown;
+	text-align: center;
+	text-decoration: underline;
+	font-family: "Rubik Microbe";
+}

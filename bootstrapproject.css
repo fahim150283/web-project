@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+  text-size-adjust: 10px;
+}
+.jumbotron{
+  color: rgb(0, 0, 0);
+  padding-top: 105px;
+  background-color: white;
+}
+.thumbnail{
+  border: none;
+}
+div{
+  padding: 5px;
+}
+.nav{
+  text-align: right;
+}
+.container{
+  color: white;
+}

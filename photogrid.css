@@ -1,0 +1,16 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h2{
+	font-family: Grape Nuts;
+	margin-left: 1.66%;
+	font-size: 40px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #9F9F9F;
+	width: 30%;
+	padding: 10px;
+}
