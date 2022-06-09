@@ -15,5 +15,5 @@ function factorial(num){
     return x;
 }
 
-//sjdhak
+
 //double update
