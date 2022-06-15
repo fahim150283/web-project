@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: "Monserrat","Avenir";
+}
+
+div:nth-child(1){
+    text-align: center;
+    background-color: rgb(138, 168, 145);
+}
+
+div:nth-child(2){
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+h1{
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    line-height: 1.1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#colordisplay{
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+#message{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+.square{
+    width: 30%;
+    background-color: purple ;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15px;
+    transition: background 0.5s;
+    --webkit-transition: background 0.5s;
+    -moz-transition: background 0.5s;
+    -o-transition: background 0.5s;
+}
+
+#container{
+    max-width: 65%;
+    margin: 0 auto;
+}
+
+button{
+    height: 30px;
+    border: none;
+    font-size: larger;
+    background: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: rgb(138, 168, 145);
+    letter-spacing: 1px;
+    transition: all 0.5s;
+    --webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+button:hover{
+    color: white;
+    background-color: rgb(138, 168, 145);
+}
+
+.selected{
+    background: rgb(138, 168, 145);
+    color: white;
+}
+
+#colordisplay{
+    font-size: 200%;
+}
+
+
+#message{
+    display: inline-block;
+    width: 24%;
+    color: rgb(138, 168, 145);
+}
