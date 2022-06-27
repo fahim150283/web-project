@@ -1,6 +1,19 @@
 body{
-    background: lightseagreen;
+    background: rgb(48, 48, 48);
 }
 h1{
-    color: blue;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    line-height: 1.1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+div{
+    margin: 0, auto;
+    padding: 20px;
+    text-align: center;
+    margin-block: 3px;
+    color: white;
 }
